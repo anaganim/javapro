@@ -18,7 +18,7 @@ public class StudentDemo
     public static void main(String[] args)
     {
         Student john = new Student();
-        john.name = "John";
+        john.name = "mahesh";
         john.age = 6;
         Student dave = new Student();
         dave.name = "Dave";
